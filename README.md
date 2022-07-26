@@ -5,7 +5,7 @@
      <a href="https://mui.com/">Mantine UI</a>
 </p>
 <h2>Usage</h2>
-<h3>Install the package</h3>
+<h3>Install the Package</h3>
 
 ```shell
 npm install
