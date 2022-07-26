@@ -4,7 +4,7 @@
     <a href="https://reactjs.org/">React</a> and
      <a href="https://mui.com/">Mantine UI</a>
 </p>
-<h2>A simple Todo List App built using React.js with Mantine UI </h2>
+<h2>Usage</h2>
 <h3>Install the package</h3>
 
 ```shell
